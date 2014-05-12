@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOIKDemo", "TOIKDemo\TOIKDemo.csproj", "{5169C19C-0F22-4507-BCFD-5E7E5EEB365E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5169C19C-0F22-4507-BCFD-5E7E5EEB365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5169C19C-0F22-4507-BCFD-5E7E5EEB365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5169C19C-0F22-4507-BCFD-5E7E5EEB365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5169C19C-0F22-4507-BCFD-5E7E5EEB365E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
